@@ -1,0 +1,4 @@
+package board
+
+class TestGameBoard {
+}
